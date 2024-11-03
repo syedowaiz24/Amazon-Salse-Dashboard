@@ -1,2 +1,4 @@
 # Amazon-Salse-Dashboard
-This in my first git hub repository.author Syed owaiz ahmed
+This in my first git hub repository.
+<br>
+author Syed owaiz ahmed
